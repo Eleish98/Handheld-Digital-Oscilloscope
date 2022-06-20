@@ -1,0 +1,16 @@
+TFT_program.c:18:13:voidWriteCommand	24	static
+TFT_program.c:28:13:voidWriteData	24	static
+TFT_program.c:36:6:HTFT_voidInit	8	static
+TFT_program.c:65:6:HTFT_DisplayOff	8	static
+TFT_program.c:69:6:HTFT_voidDisplayImage	24	static
+TFT_program.c:110:6:HTFT_voidFill	32	static
+TFT_program.c:126:6:HTFT_voidFillScreen	24	static
+TFT_program.c:169:13:SetCursorPosition	24	static
+TFT_program.c:185:6:HTFT_DrawPixel	16	static
+TFT_program.c:192:6:HTFT_DrawLine	32	static
+TFT_program.c:198:6:HTFT_DrawRectangle	32	static
+TFT_program.c:205:6:HTFT_DrawChar	40	static
+TFT_program.c:238:6:HTFT_DrawText	16	static
+TFT_program.c:246:6:HTFT_DrawFilledCircle	48	static
+TFT_program.c:280:6:HTFT_DrawHollowCircle	40	static
+TFT_program.c:314:6:HTFT_SetRotation	24	static

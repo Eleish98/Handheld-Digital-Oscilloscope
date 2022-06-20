@@ -1,0 +1,4 @@
+ADC_program.c:19:6:MADC_voidInit	8	static
+ADC_program.c:42:5:MADC_u16GetData	16	static
+ADC_program.c:61:6:MADC_voidCallBack	16	static
+ADC_program.c:67:6:ADC1_2_IRQHandler	8	static

@@ -1,0 +1,9 @@
+TIMER2_program.c:11:6:SH	16	static
+TIMER2_program.c:16:6:MTIMER2_voidInit	4	static
+TIMER2_program.c:38:6:MTIMER2_voidClearFlags	4	static
+TIMER2_program.c:43:5:MTIMER2_u16ReadCapture	16	static
+TIMER2_program.c:57:6:MTIMER2_voidSetCallBack	16	static
+TIMER2_program.c:69:6:MTIMER2_voidEnableInterrupt	16	static
+TIMER2_program.c:74:6:MTIMER2_voidDisableInterrupt	16	static
+TIMER2_program.c:78:6:MTIMER2_voidClearCounter	4	static
+TIMER2_program.c:82:6:TIM2_IRQHandler	8	static
